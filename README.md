@@ -104,4 +104,4 @@ Send data to cloud (IoT) for remote monitoring.
 
 👉 This project combines Embedded Systems + Display Control + Automation Logic, making it a great learning project in Arduino & IoT basics.
 
-Demo Video ()
+Demo Video (https://drive.google.com/file/d/1t7SmD9KW39w5B0LXohzvQvHHxJeZUz-e/view?usp=drivesdk)
